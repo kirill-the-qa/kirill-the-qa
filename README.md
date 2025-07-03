@@ -11,32 +11,42 @@ I enjoy testing complex systems like payment platforms, loyalty programs, and ge
 
 ## 🧰 Tech Stack & Tools
 
-### 🔧 Test Management & Tracking:
-`Jira` • `TestRail` • `Confluence`
+### 🔧 Test Management & Tracking
+- **Jira**
+- **TestRail**
+- **Confluence**
 
-### 🔬 Testing & API Tools:
-`Postman (REST)` • `Apollo Sandbox (GraphQL)` • `Charles Proxy` • `JMeter`
+### 🔬 Testing & API Tools
+- **Postman** (REST)
+- **Apollo Sandbox** (GraphQL)
+- **Charles Proxy**
+- **JMeter**
 
-### 🧪 Automation:
-`Cypress` (basic)
+### 🧪 Automation
+- **Cypress** (basic usage)
 
-### 🔍 Debugging & Inspection:
-`Chrome DevTools`
+### 🔍 Debugging & Inspection
+- **Chrome DevTools**
 
-### 🧰 Infrastructure & Cloud:
-`AWS` (sensor logs, S3, monitoring) • `Firebase`
+### 🧰 Infrastructure & Cloud
+- **AWS** (sensor logs, S3, monitoring)
+- **Firebase**
 
-### 🧠 Design & Prototyping:
-`Figma` • `Zeplin`
+### 🧠 Design & Prototyping
+- **Figma**
+- **Zeplin**
 
-### 💻 Version Control:
-`GitHub`
+### 💻 Version Control
+- **GitHub**
 
-### 📱 Mobile Testing:
-`Xcode` • `Android Studio` • `Firebase Crashlytics` • `TestFlight`
+### 📱 Mobile Testing
+- **Xcode**
+- **Android Studio**
+- **Firebase Crashlytics**
+- **TestFlight**
 
-### 🛍️ E-Commerce:
-`Shopify`
+### 🛍️ E-Commerce
+- **Shopify**
 
 ---
 
