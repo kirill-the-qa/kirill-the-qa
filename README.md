@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Kirill Konovalov 🔍🐞
 
-<!--
-**kirill-the-qa/kirill-the-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer with 5+ years of experience in manual, mobile, and API testing.  
+Skilled in Cypress automation and passionate about product quality.
 
-Here are some ideas to get you started:
+🚀 Check out my personal QA Portfolio:  
+👉 [https://kirill-the-qa.github.io/kirill-the-qa-portfolio/](https://kirill-the-qa.github.io/kirill-the-qa-portfolio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Stack:
+**Testing:** Cypress, Postman, Charles, JMeter  
+**Management:** Jira, TestRail, Confluence  
+**API:** REST, GraphQL  
+**Dev Tools:** Chrome DevTools, Firebase, GitHub  
