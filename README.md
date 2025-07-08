@@ -1,6 +1,6 @@
 # Hi, I'm Kirill Konovalov 🔍🐞
 
-**QA Engineer ⚙️ | Manual, Mobile & API Testing | Automating with Cypress
+# **QA Engineer** ⚙️ | Manual, Mobile & API Testing | Automating with Cypress
 
 🚀 **Check out my online QA portfolio:**  
 👉 [https://kirill-the-qa.github.io/kirill-the-qa-portfolio/](https://kirill-the-qa.github.io/kirill-the-qa-portfolio/)
