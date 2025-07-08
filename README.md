@@ -1,8 +1,6 @@
 # Hi, I'm Kirill Konovalov 🔍🐞
 
-**QA Engineer** with 5+ years of experience in manual, mobile, and API testing.  
-Skilled in Cypress automation and passionate about catching bugs before users do.  
-I enjoy testing complex systems like payment platforms, loyalty programs, and geolocation services.  
+**QA Engineer ⚙️ | Manual, Mobile & API Testing | Automating with Cypress
 
 🚀 **Check out my online QA portfolio:**  
 👉 [https://kirill-the-qa.github.io/kirill-the-qa-portfolio/](https://kirill-the-qa.github.io/kirill-the-qa-portfolio/)
